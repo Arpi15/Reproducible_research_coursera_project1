@@ -69,3 +69,6 @@ weekdays() function may be of some help here. Use the dataset with the filled-in
 2. Make a panel plot containing a time series plot (i.e. 
 type = "l"
 type="l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). See the README file in the GitHub repository to see an example of what this plot should look like using simulated data.
+
+
+RPubs link -> http://rpubs.com/ArpitaM/514248
